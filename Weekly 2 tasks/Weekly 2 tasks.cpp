@@ -1,3 +1,4 @@
+//Written by Mathias Fredriksen
 #include <iostream>
 #include <string>
 #include <stdio.h> 
